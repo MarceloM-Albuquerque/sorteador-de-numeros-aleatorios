@@ -1,7 +1,7 @@
-<h1><b>Jogo do número secreto</b></h1>
+<h1><b>Sorteador de números aleatorios</b></h1>
 
 <h2>🏷  Sobre</h2>
-<p>Projeto realizado no cursos de lógica de programação da Alura.</p>
+<p>Projeto realizado no curso de lógica de programação: praticando com desafios da Alura.</p>
 
 ## 🚀 Tecnologias:
 <div>
